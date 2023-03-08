@@ -37,10 +37,7 @@
   max-width: 730px;
   margin-left: 64px;
   z-index: 3;
-
 }
-
-
 
 .header__subtitle {
   position: absolute;
@@ -78,12 +75,10 @@
   width: 568px;
 }
 
-
 .description {
   display: flex;
   justify-content: center;
   margin-top: 100px;
-
 }
 
 .two-columns {
@@ -296,6 +291,7 @@
   font-weight: normal;
   flex-basis: content;
   margin: 18px 0px 18px 0px;
+  width: max-content;
 }
 
 
@@ -314,8 +310,6 @@
 
 .footer__column-list {
   list-style-type: none;
-  padding: 0px;
-  margin: 0px;
 }
 
 .footer__column-link {
