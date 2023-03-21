@@ -1,0 +1,7 @@
+.cards__item {
+  width: 240px;
+  margin: 0px 100px 0px 0px;
+}
+.cards__item:nth-last-of-type(3n) {
+  margin: 0px;
+}
