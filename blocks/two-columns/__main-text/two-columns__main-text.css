@@ -2,5 +2,6 @@
   width: 80%;
   min-width: 784px;
   display: flex;
-  flex-wrap: wrap;
+  flex-direction: column;
+  row-gap: 30px;
 }
